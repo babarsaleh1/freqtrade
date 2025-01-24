@@ -42,3 +42,4 @@
         }
     }
 }
+"workspaceMount": "source=${localWorkspaceFolder},target=/workspaces/freqtrade,type=bind,consistency=cached.fix
